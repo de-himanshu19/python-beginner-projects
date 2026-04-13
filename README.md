@@ -1,6 +1,3 @@
-# python-beginner-projects
-Beginner Python projects including games and logic building exercises
-
 # Python Beginner Projects
 
 This repository contains beginner-level Python projects created as part of my Data Analytics learning journey.
